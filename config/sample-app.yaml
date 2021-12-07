@@ -1,0 +1,9 @@
+vertical : "devops"
+appName :  "sample-app"
+version  : "node-10.16.0"
+repoUrl : 
+url_prefix : "sampleapi2"
+srcDir : "src"
+NR_APM_ID: "5DAFSDASD"
+test_args : "testargs"
+deploy_env: ["dev","qa","prod"]
