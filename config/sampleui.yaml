@@ -1,0 +1,9 @@
+vertical : "devops"
+appName :  "sampleui"
+version  : "node-10.16.0"
+repo_Url : "https://github.com/tejas-deshmukh-rupeek/tempo"
+url_prefix : "sampleui"
+srcDir : "src"
+NR_APM_ID: "5DAFSDASD"
+test_args : "test"
+deploy_env: ["dev","prod"]
