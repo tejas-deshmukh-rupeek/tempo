@@ -1,0 +1,9 @@
+vertical : "devops"
+appName :  "demoapi"
+version  : "openjdk-11"
+repo_Url : "https://github.com/tejas-deshmukh-rupeek/tempo"
+url_prefix : "demoapi"
+srcDir : "."
+NR_APM_ID: "5DAFSDASD"
+test_args : "test"
+deploy_env: ["dev","prod"]
